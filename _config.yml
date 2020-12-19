@@ -38,8 +38,17 @@ port: 4001
 # Build settings
 theme: kids
 plugins:
+  - jekyll-archives
   - jekyll-feed
   - jekyll-sitemap
+
+jekyll-archives:
+  enabled: ["categories", "tags"]
+  layout: archive
+  slug_mode: latin
+  permalinks:
+    tag: "/tag/:name/"
+    category: "/category/:name/"
 
 kids:
   archives_path: "archives/"
