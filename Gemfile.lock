@@ -11,8 +11,8 @@ GIT
 
 GIT
   remote: https://github.com/dirtyhenry/kids.git
-  revision: 11205d566c95fd60fee34b96111d6edd70e0b913
-  branch: master
+  revision: 126b6aef2e310babdb5607fd5010082e0c6f870e
+  branch: main
   specs:
     kids (0.2.0)
       buckygem (~> 0.5)
