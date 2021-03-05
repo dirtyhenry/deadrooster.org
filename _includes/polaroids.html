@@ -1,0 +1,10 @@
+<ul class="polaroids">
+{%- for item in include.polaroids -%}
+<li class="polaroid">
+  <a href="{{ item.link | default: "#" }}">
+    {% asset '{{ item.asset }}' %}
+    <p>{{item.artist}}<br><i>{{item.title}}</i></p>
+  </a>
+</li>
+{%- endfor -%}
+</ul>
