@@ -23,6 +23,15 @@ $max-random-offset: 1 + (($max-random - 1) / 2);
     padding: 1rem;
     max-width: 200px;
 
+    a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      text-decoration: none;
+      color: #4f4f4f;
+    }
+
     p {
       font-size: 0.8rem;
       width: 100%;
