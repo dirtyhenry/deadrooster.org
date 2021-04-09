@@ -1,6 +1,6 @@
 # Dead Rooster
 
-[![Build Status](https://travis-ci.org/DeadRooster/deadrooster.org.svg?branch=master)](https://travis-ci.org/DeadRooster/deadrooster.org)
+[![Build Status](https://travis-ci.org/DeadRooster/deadrooster.org.svg?branch=main)](https://travis-ci.org/DeadRooster/deadrooster.org)
 
 Dead Rooster is a French website about music, movies, soccer, and random fun
 stuff.

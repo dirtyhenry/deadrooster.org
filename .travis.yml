@@ -25,4 +25,4 @@ deploy:
   target-branch: gh-pages
   fqdn: deadrooster.org
   on:
-    branch: master
+    branch: main
