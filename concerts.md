@@ -50,7 +50,7 @@ cover: concerts.jpg
 
 - [**Info concert**](http://www.infoconcert.com/)
 - [**Concert and co**](http://www.concertandco.com/)
-- [**Allez les filles**](http://www.allezlesfilles.com/) (Bordeaux)
+- [**Allez les filles**](https://www.facebook.com/allezlesfilles) (Bordeaux)
 - [**Rock School Barbey**](http://www.rockschool-barbey.com/) (Bordeaux)
 
 ## Photos
