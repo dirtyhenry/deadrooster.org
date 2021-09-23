@@ -8,6 +8,13 @@ stuff.
 This repository hosts the source code that generates and deploys the website.
 For the articles themselves, see [this repository][1].
 
+## Deployment
+
+Required environment variables for deployment include:
+
+- `JEKYLL_ENV`: `production`
+- `GOOGLE_SEARCH_CONSOLE_VERIFICATION_TOKEN`: which should be set to
+
 ## Memory Lane
 
 An older version of the site was using [Alternate Gothic 2][2].
