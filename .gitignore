@@ -5,3 +5,5 @@ _site
 vendor
 
 .env
+
+/node_modules
