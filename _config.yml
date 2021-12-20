@@ -67,3 +67,8 @@ kids:
 #
 exclude:
   - Makefile
+  - package.json
+  - package-lock.json
+  - README.md
+  - stack.yml
+  - webpack.config.js
