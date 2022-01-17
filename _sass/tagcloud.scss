@@ -1,0 +1,99 @@
+.tagcloud {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  border-radius: 8px;
+  background-color: white;
+
+  padding: 0 8px;
+
+  li {
+    display: inline;
+
+    div {
+      display: inline;
+      padding: 3px;
+
+      &:hover {
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+        z-index: 5;
+        scale: 1.2;
+        color: black;
+      }
+    }
+
+    .poids-9 {
+      font-size: 0.5625rem;
+      color: #cccccc;
+    }
+    .poids-10 {
+      font-size: 0.625rem;
+      color: #c0c0c0;
+    }
+    .poids-11 {
+      font-size: 0.6875rem;
+      color: #b4b4b4;
+    }
+    .poids-12 {
+      font-size: 0.75rem;
+      color: #a8a8a8;
+    }
+    .poids-13 {
+      font-size: 0.8125rem;
+      color: #9c9c9c;
+    }
+    .poids-14 {
+      font-size: 0.875rem;
+      color: #909090;
+    }
+    .poids-15 {
+      font-size: 0.9375rem;
+      color: #848484;
+    }
+    .poids-16 {
+      font-size: 1rem;
+      color: #787878;
+    }
+    .poids-17 {
+      font-size: 1.0625rem;
+      color: #6c6c6c;
+    }
+    .poids-18 {
+      font-size: 1.125rem;
+      color: #606060;
+    }
+    .poids-19 {
+      font-size: 1.1875rem;
+      color: #545454;
+    }
+    .poids-20 {
+      font-size: 1.25rem;
+      color: #484848;
+    }
+    .poids-21 {
+      font-size: 1.3125rem;
+      color: #3c3c3c;
+    }
+    .poids-22 {
+      font-size: 1.375rem;
+      color: #303030;
+    }
+    .poids-23 {
+      font-size: 1.4375rem;
+      color: #242424;
+    }
+    .poids-24 {
+      font-size: 1.5rem;
+      color: #181818;
+    }
+    .poids-25 {
+      font-size: 1.5625rem;
+      color: #0c0c0c;
+    }
+    .poids-26 {
+      font-size: 1.625rem;
+      color: #000000;
+    }
+  }
+}
