@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/laurent-chalumeau/"
+  to = "/laurent-chalumeau-kif/"
+  status = 301
+  force = true
