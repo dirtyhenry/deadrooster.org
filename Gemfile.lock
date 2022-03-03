@@ -70,7 +70,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.2)
     colorator (1.1.0)
-    commonmarker (0.23.2)
+    commonmarker (0.23.4)
     concurrent-ruby (1.1.9)
     dotenv (2.7.6)
     em-websocket (0.5.3)
