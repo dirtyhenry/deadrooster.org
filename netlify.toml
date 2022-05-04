@@ -3,3 +3,21 @@
   to = "/laurent-chalumeau-kif/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/the-national-en-visuel/"
+  to = "/the-national-terrible-love/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/histoire-du-cinema-en-2-minutes/"
+  to = "/35mm-histoire-du-cinema-en-2-minutes/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/high-violet-haute-voltige/"
+  to = "/the-national-high-violet/"
+  status = 301
+  force = true
