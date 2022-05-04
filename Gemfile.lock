@@ -1,16 +1,5 @@
 GIT
-  remote: https://github.com/dirtyhenry/buckygem.git
-  revision: ea293f3de0f5ffff90cc7cb33acc25738450ba13
-  branch: main
-  specs:
-    buckygem (0.6.0)
-      i18n
-      jekyll
-      liquid (~> 4.0)
-      mini_magick
-
-GIT
-  remote: https://github.com/dirtyhenry/kids.git
+  remote: git@github.com:dirtyhenry/kids.git
   revision: 4c81d6be0f2b30737b1f415cc3340d484de251f1
   branch: main
   specs:
@@ -22,6 +11,17 @@ GIT
       jekyll-commonmark (~> 1.3)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+
+GIT
+  remote: https://github.com/dirtyhenry/buckygem.git
+  revision: ea293f3de0f5ffff90cc7cb33acc25738450ba13
+  branch: main
+  specs:
+    buckygem (0.6.0)
+      i18n
+      jekyll
+      liquid (~> 4.0)
+      mini_magick
 
 GIT
   remote: https://github.com/envygeeks/jekyll-assets
