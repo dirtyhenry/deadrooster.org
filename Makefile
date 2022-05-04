@@ -1,4 +1,5 @@
 install:
+	bundle config github.com ${GITHUB_TOKEN}
 	bundle install
 	git submodule update --init --remote --merge
 	npm install

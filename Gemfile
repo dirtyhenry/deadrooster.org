@@ -5,7 +5,7 @@ ruby '~> 2.7.4'
 
 # This is a lightweight Jekyll theme we want to use.
 gem 'kids',
-    git: 'git@github.com:dirtyhenry/kids.git',
+    git: 'https://github.com/dirtyhenry/kids.git',
     branch: 'main'
 
 # If you have any plugins, put them here!
