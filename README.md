@@ -13,7 +13,6 @@ For the articles themselves, see [this repository][1].
 Required environment variables for deployment include:
 
 - `JEKYLL_ENV`: `production`
-- `GOOGLE_SEARCH_CONSOLE_VERIFICATION_TOKEN`: which should be set to
 
 ## Memory Lane
 
