@@ -7,3 +7,8 @@ vendor
 .env
 
 /node_modules
+
+# VS Code
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/targets.log
