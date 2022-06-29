@@ -28,4 +28,4 @@ run-legacy-mysql:
 	docker-compose -f stack.yml up
 
 package-js:
-	npm run webpack
+	yarn run webpack
