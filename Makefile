@@ -2,7 +2,7 @@ install:
 	bundle config github.com ${GITHUB_TOKEN}
 	bundle install
 	git submodule update --init --remote --merge
-	npm install
+	yarn install
 
 fetch-articles:
 	git submodule update --init --remote --merge
