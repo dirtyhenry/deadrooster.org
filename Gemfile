@@ -18,10 +18,10 @@ group :jekyll_plugins do
       git: 'https://github.com/jekyll/jekyll-archives.git',
       branch: 'master'
 
-      gem 'jekyll-commonmark',
+  gem 'jekyll-commonmark',
       git: 'https://github.com/jekyll/jekyll-commonmark',
       branch: 'master'
-  
+
   # As of version 3.0.12, jekyll-assets can't work with Jekyll 4
   # ... but the master branch can
   gem 'jekyll-assets',
