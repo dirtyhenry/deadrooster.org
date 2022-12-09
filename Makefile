@@ -20,7 +20,7 @@ clean:
 
 lint:
 	bundle exec rubocop
-	
+
 lintfix:
 	bundle exec rubocop -a
 
