@@ -1,8 +1,13 @@
 ---
 en:
   common:
+    firstPage:
+      🐣 This is the first post of this site.<br>Go back to the most recent?
+    lastPage: This is the most recent post of this site.
+    subscribe: Subscribe to the RSS feed.
     next: next
     previous: previous
+    morePosts: Older posts
   date:
     abbr_day_names:
       - Sun
