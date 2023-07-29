@@ -1,8 +1,13 @@
 ---
 fr:
   common:
+    firstPage:
+      🐣 Ceci est le plus ancien post du site.<br>Retourner au plus récent?
+    lastPage: Ceci est le post le plus récent du site.
+    subscribe: S’abonner au flux RSS.
     next: suivant
     previous: précédent
+    morePosts: Posts plus anciens
   date:
     abbr_day_names:
       - dim
@@ -134,7 +139,8 @@ fr:
         other: est trop court (au moins %{count} caractères)
       wrong_length:
         one: ne fait pas la bonne longueur (doit comporter un seul caractère)
-        other: ne fait pas la bonne longueur (doit comporter %{count} caractères)
+        other:
+          ne fait pas la bonne longueur (doit comporter %{count} caractères)
       other_than: doit être différent de %{count}
     template:
       body: "Veuillez vérifier les champs suivants : "
