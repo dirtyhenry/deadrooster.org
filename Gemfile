@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '~> 2.7.4'
+ruby '~> 3.0.2'
 
 # This is a lightweight Jekyll theme we want to use.
 gem 'kids',
@@ -25,7 +25,7 @@ group :jekyll_plugins do
   # As of version 3.0.12, jekyll-assets can't work with Jekyll 4
   # ... but the master branch can
   gem 'jekyll-assets',
-      git: 'https://github.com/envygeeks/jekyll-assets',
+      git: 'https://github.com/dirtyhenry/jekyll-assets',
       branch: 'master'
   gem 'jekyll-feed', '~> 0.12'
   gem 'jekyll-sitemap'
