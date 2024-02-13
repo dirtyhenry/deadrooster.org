@@ -21,3 +21,9 @@
   to = "/the-national-high-violet/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/Concours-Katerine-Francis-et-ses"
+  to = "/concours-katerine-francis-et-ses-peintres/"
+  status = 301
+  force = true
