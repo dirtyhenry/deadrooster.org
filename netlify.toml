@@ -27,3 +27,15 @@
   to = "/concours-katerine-francis-et-ses-peintres/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/boneless-symphonique/"
+  to = "/the-notwist-boneless-version-symphonique/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/prefab-prouuuut/"
+  to = "/prefab-sprout-steve-mcqueen/"
+  status = 301
+  force = true
