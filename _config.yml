@@ -21,15 +21,13 @@
 title: Dead Rooster
 lang: fr
 repository:
-  url: https://github.com/DeadRooster/articles
-  name: DeadRooster/articles
+  url: https://github.com/dirtyhenry/dead-rooster-articles
+  name: articles
 permalink: /:title/
 description: >- # this means to ignore newlines until "baseurl:"
   Surtout du rock, des films, du foot et de la pop culture.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.deadrooster.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dead__rooster
-github_username: DeadRooster
 markdown: CommonMark
 port: 4001
 
