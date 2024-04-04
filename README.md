@@ -1,12 +1,28 @@
-# Dead Rooster
+# 🐔 Dead Rooster: the engine
 
-[![Build Status](https://travis-ci.org/DeadRooster/deadrooster.org.svg?branch=main)](https://travis-ci.org/DeadRooster/deadrooster.org)
+This repository contains the code running [deadrooster.org][3].
 
-Dead Rooster is a French website about music, movies, soccer, and random fun
-stuff.
+The articles of the site are on [dirtyhenry/dead-rooster-articles][4].
 
-This repository hosts the source code that generates and deploys the website.
-For the articles themselves, see [this repository][1].
+## About 🇫🇷
+
+Créé en 2005, [deadrooster.org][3] est un vieux blog, commencé par des jeunes
+qui le sont désormais un peu moins. Le blog est principalement écrit par Dirty
+Henry et Joe Gantdelaine, mais a connu de nombreux contributeurs plus ou moins
+épisodiques. On parle ici de musique, de films, de séries TV, de bouquins, de
+sport et de pop culture.
+
+Outre les critiques de disques, de concerts, de films ou de livres, vous
+trouverez ici nos compiles, nos chansons coup de cœur, du fun et nos séries à
+succès :
+
+- [L’Encyclopédie approximative du Rock and Roll][5]
+- [Le monde va mal][6]
+
+## Follow
+
+- Follow us: [RSS Feed][7]
+- Talk to us: [GitHub Discussions][8]
 
 ## Deployment
 
@@ -18,5 +34,11 @@ Required environment variables for deployment include:
 
 An older version of the site was using [Alternate Gothic 2][2].
 
-[1]: https://github.com/DeadRooster/articles
 [2]: https://www.myfonts.com/fonts/linotype/alternate-gothic-lt/
+[3]: https://www.deadrooster.org
+[4]: https://github.com/dirtyhenry/dead-rooster-articles
+[5]:
+  https://www.deadrooster.org/category/encyclopedie-approximative-du-rock-and-roll/
+[6]: https://www.deadrooster.org/category/le-monde-va-mal/
+[7]: https://www.deadrooster.org/feed.xml
+[8]: https://github.com/dirtyhenry/dead-rooster-articles/discussions

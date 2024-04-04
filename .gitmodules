@@ -1,4 +1,4 @@
 [submodule "_posts"]
 	path = _posts
-	url = https://github.com/DeadRooster/articles
+	url = https://github.com/dirtyhenry/dead-rooster-articles
 	branch = main
