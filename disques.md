@@ -7,11 +7,12 @@ authors:
   - Dirty Henry
 wordpress_id: 9
 cover: disques.jpg
+published: false
 ---
 
 Update : les disques, désormais, c'est un peu en chantier mais c'est
-[ici](http://app.deadrooster.org/records).
+[ici](https://app.deadrooster.org/records).
 
 Photo sous
-[licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr)
-par [itchy73](http://www.flickr.com/photos/itchy73/).
+[licence Creative Commons](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr)
+par [itchy73](https://www.flickr.com/photos/itchy73/).
