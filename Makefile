@@ -10,6 +10,14 @@ fetch-articles:
 run: package-js
 	bundle exec jekyll serve
 
+link-local:
+	rm -rf _posts
+	ln -s ../dr-articles/ _posts
+
+unlink-local:
+	rm -rf _posts
+	git submodule update --init --remote --merge
+
 build:
 	bundle exec jekyll build
 
