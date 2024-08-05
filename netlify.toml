@@ -39,3 +39,15 @@
   to = "/prefab-sprout-steve-mcqueen/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/parfois-on-s-demande/"
+  to = "/acid-house-kings/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/message-pas-joli-joli-mais-chanson-cool/"
+  to = "/cee-lo-green-fuck-you/"
+  status = 301
+  force = true
