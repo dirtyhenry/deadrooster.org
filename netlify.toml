@@ -51,3 +51,51 @@
   to = "/cee-lo-green-fuck-you/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/des-nouvelles-de-matthew-cavs-nada-surf/"
+  to = "/tokyo-telekinesis-matthew-caws/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/desequilibre/"
+  to = "/eels-unhinged/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/revons-d-un-autre-monde/"
+  to = "/mystery-jets-dreaming-of-another-world/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/la-verite-au-malade/"
+  to = "/plastiscines-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/la-verite-au-malade/"
+  to = "/plastiscines-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/local-natives-on-tient-un-truc-l/"
+  to = "/local-natives/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dans-tes-reves-mr-e/"
+  to = "/eels-in-my-dreams/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tsool-nan-toi-tu-soules/"
+  to = "/the-soundtrack-of-our-lives/"
+  status = 301
+  force = true
