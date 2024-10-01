@@ -99,3 +99,9 @@
   to = "/the-soundtrack-of-our-lives/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/decouverte-de-debuts-honteux/"
+  to = "/shelby-1-plus-1/"
+  status = 301
+  force = true
