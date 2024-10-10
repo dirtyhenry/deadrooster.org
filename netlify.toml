@@ -105,3 +105,9 @@
   to = "/shelby-1-plus-1/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/le-porno-c-est-pas-si-mal-apres-tout/"
+  to = "/your-hands-together-the-new-pornographers/"
+  status = 301
+  force = true
