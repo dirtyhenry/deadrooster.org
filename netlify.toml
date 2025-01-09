@@ -111,3 +111,27 @@
   to = "/your-hands-together-the-new-pornographers/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/dodo-pileptique/"
+  to = "/dodo-epileptique/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/les-limites-de-la-medecine/"
+  to = "/the-vaccines-come-of-age/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Tiersen-dit-oui-a-Fantomas-apres"
+  to = "/tiersen-dit-oui-a-fantomas-apres-qu-arcade-fire-a-dit-non-a-hibernatus/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/The-Young-Person-s-Guide-To"
+  to = "/the-young-person-s-guide-to-becoming-a-rock-star/"
+  status = 301
+  force = true
