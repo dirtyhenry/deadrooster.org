@@ -1,3 +1,5 @@
+@use "../variables" as *;
+
 .tooltip {
   background-color: $background-color-dark;
   color: $text-color-dark;

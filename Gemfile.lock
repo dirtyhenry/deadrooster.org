@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: https://github.com/dirtyhenry/kids.git
-  revision: 3c542848808d82cd7194a04dcb60885c133a02cd
+  revision: a6fc4738170aab128ccb042fa3575482e1925267
   branch: main
   specs:
     kids (0.2.0)
@@ -220,22 +220,22 @@ GEM
       prism (~> 1.4)
     ruby-progressbar (1.13.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.88.0-aarch64-linux-gnu)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-aarch64-linux-musl)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-arm-linux-gnueabihf)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-arm-linux-musleabihf)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-arm64-darwin)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-x86_64-darwin)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-x86_64-linux-gnu)
-      google-protobuf (~> 4.30)
-    sass-embedded (1.88.0-x86_64-linux-musl)
-      google-protobuf (~> 4.30)
+    sass-embedded (1.89.0-aarch64-linux-gnu)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-aarch64-linux-musl)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-arm-linux-gnueabihf)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-arm-linux-musleabihf)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-arm64-darwin)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-x86_64-darwin)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
+    sass-embedded (1.89.0-x86_64-linux-musl)
+      google-protobuf (~> 4.31)
     sassc (2.4.0)
       ffi (~> 1.9)
     sprockets (4.2.2)

@@ -1,3 +1,5 @@
+@use "sass:math";
+
 // The absolute value for the maximum rotation angle in degrees we want
 $max-rotation-angle: 5;
 
@@ -5,7 +7,7 @@ $max-rotation-angle: 5;
 // We want to offset by 1, and double the value to cover ± values
 $max-random: 1 + 2 * $max-rotation-angle;
 // And then we substract an offset half-value to shift to negative values.
-$max-random-offset: 1 + (($max-random - 1) / 2);
+$max-random-offset: 1 + math.div($max-random - 1, 2);
 
 .polaroids {
   padding: 0;
@@ -45,35 +47,35 @@ $max-random-offset: 1 + (($max-random - 1) / 2);
   }
 
   li:nth-child(2n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(3n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(4n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(5n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(6n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(7n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(8n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:nth-child(9n) {
-    transform: rotate((random($max-random) - $max-random-offset) + deg);
+    transform: rotate((math.random($max-random) - $max-random-offset) + deg);
   }
 
   li:hover {
