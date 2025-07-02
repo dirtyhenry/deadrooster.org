@@ -135,3 +135,15 @@
   to = "/the-young-person-s-guide-to-becoming-a-rock-star/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/when-i-was-in-the-sweet-little-16/"
+  to = "/garden-nef-party-angouleme-2008/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/when-i-was-in-the-sweet-little-16-2009-version/"
+  to = "/garden-nef-party-angouleme-2009/"
+  status = 301
+  force = true
