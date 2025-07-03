@@ -20,6 +20,7 @@
 
 title: Dead Rooster
 lang: fr
+timezone: Europe/Paris
 repository:
   url: https://github.com/dirtyhenry/dead-rooster-articles
   name: articles
